@@ -17,10 +17,14 @@ Basit arayüzü, hızlı arama özelliği ve CSV dışa aktarma fonksiyonu ile p
 
 
 ## Ekran Görüntüleri
-<img width="1001" height="625" alt="image" src="https://github.com/user-attachments/assets/ff3aa002-08a8-40b6-af1c-5cf2cc36db57" />
-<img width="1001" height="628" alt="image" src="https://github.com/user-attachments/assets/b5456e1c-e630-45ad-8907-01c2c5e1f5d6" />
-<img width="997" height="624" alt="image" src="https://github.com/user-attachments/assets/9596c38f-18b2-461e-8f2e-39c5bb1d3c65" />
-<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/ad0717f6-44d7-481c-b4bd-da36729eeb8d" />
+<img width="1001" height="625" alt="image" src="https://github.com/user-attachments/assets/5a707657-0c66-4094-a0af-f6f990444f83" />
+
+<img width="1001" height="628" alt="image" src="https://github.com/user-attachments/assets/974ea081-efbc-47de-a831-c3c47c9aad2f" />
+
+<img width="997" height="624" alt="image" src="https://github.com/user-attachments/assets/607cbaf8-714c-4044-bc59-3d8eeb994704" />
+
+<img width="997" height="623" alt="image" src="https://github.com/user-attachments/assets/2a0fa68f-3dc6-4215-93e8-347fa399474a" />
+
 
 ### Gerekli Bağımlılıklar
 
